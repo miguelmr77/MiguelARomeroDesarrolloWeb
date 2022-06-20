@@ -103,10 +103,6 @@ h1 {
     outline: none;
     border-bottom: 3px solid #ffff00;
 }
-.form textarea {
-    min-height: 100px;
-    resize: none;
-}
 
 
 .form_submit {
