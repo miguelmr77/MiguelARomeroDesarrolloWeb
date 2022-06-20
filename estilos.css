@@ -65,7 +65,7 @@ h1 {
 
 
 .body_reg {
-    background-image: url(/imagenes/373012.jpg);
+    background-image: url(./imagenes/373012.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ h1 {
 
 
 .body_tacticas {
-    background-image: url(/imagenes/tabfond.jpg);
+    background-image: url(./imagenes/tabfond.jpg);
 }
 .container_tacticas {
     display:flex;
@@ -185,11 +185,11 @@ h1 {
 
 .contacto_contain {
 
-    background-image: url(/imagenes/thumb-1920-770844.jpg);
+    background-image: url(./imagenes/thumb-1920-770844.jpg);
 }
 
 .contacto_titulo {
-    background-image: url(/imagenes/tabfond.jpg);
+    background-image: url(./imagenes/tabfond.jpg);
     text-align: center;
     font-size: 6em;
     color: #fff;
