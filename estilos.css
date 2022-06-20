@@ -45,7 +45,7 @@ h1 {
     content: "";
     height: 3px;
     width: 0%;
-    background: yellowgreen;
+    background: #ffff00;
     position: absolute;
     left: 0;
     bottom: -12px;
@@ -101,7 +101,7 @@ h1 {
 .form_input:focus {
     background: linear-gradient(to bottom, transparent, #333);
     outline: none;
-    border-bottom: 3px solid #5d9;
+    border-bottom: 3px solid #ffff00;
 }
 .form textarea {
     min-height: 100px;
@@ -110,7 +110,7 @@ h1 {
 
 
 .form_submit {
-    background-color: yellowgreen;
+    background-color: #ffff00;
     border: none;
     padding:12px;
     border:0px;
@@ -118,15 +118,12 @@ h1 {
     height:50px;
 }
 .form_submit:hover {
-    background-color: #072;
+    background-color: rgb(104, 99, 27);
     border: none;
     padding:12px;
 }
 .form_submit:focus {
-    background-color: #094;
-}
-.form_submit:active {
-    background: linear-gradient(to bottom, #094, #072);
+    background-color: rgb(104, 99, 56);
 }
 
 
@@ -174,7 +171,12 @@ h1 {
     width: 40%;
 }
 
-
+.footer_tactica {
+    color: #fff;
+    background-color: #8B4513;
+    text-align: center;
+    padding: 2px;
+}
 
 
 
